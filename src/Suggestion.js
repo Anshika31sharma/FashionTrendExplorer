@@ -6,7 +6,7 @@ export default function suggestion() {
    <div className="d-flex justify-content-between">
   
      <div className="suggestion-card">
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8OfqlX6-VC5yKQ-_eaq6CIH24KaK4OFl2iA&usqp=CAU" />
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8OfqlX6-VC5yKQ-_eaq6CIH24KaK4OFl2iA&usqp=CAU" alt="Product 1" />
        <span>Product 1</span>
      </div>
      <div className="suggestion-card">
@@ -22,15 +22,15 @@ export default function suggestion() {
        <span>Product 4</span>
      </div>
      <div className="suggestion-card">
-       <img src="https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/24283556/2023/8/1/bd9214e3-b2ee-4c5c-afe6-ef4ba6f7a8c51690894330669BAESDWomenBlackRelaxedStraightLegTrousers1.jpg" alt="Product 3" />
+       <img src="https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/24283556/2023/8/1/bd9214e3-b2ee-4c5c-afe6-ef4ba6f7a8c51690894330669BAESDWomenBlackRelaxedStraightLegTrousers1.jpg" alt="Product 5" />
        <span>Product 5</span>
      </div>
      <div className="suggestion-card">
-       <img src="https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/18076128/2022/5/16/7c80524f-56e6-4425-a129-c43ddd039f9e1652677781758-Saree-mall-Black-Crepe-Ethnic-Digital-Print-Festive-Wear-Sar-1.jpg" alt="Product 3" />
+       <img src="https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/18076128/2022/5/16/7c80524f-56e6-4425-a129-c43ddd039f9e1652677781758-Saree-mall-Black-Crepe-Ethnic-Digital-Print-Festive-Wear-Sar-1.jpg" alt="Product 6" />
        <span>Product 6</span>
      </div>
      <div className="suggestion-card ">
-       <img src="https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/15598130/2021/10/11/00b95453-af40-4cfe-a8fb-51960607777e1633926686080-DILLINGER-Women-Tshirts-7421633926685543-1.jpg" alt="Product 3" />
+       <img src="https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/15598130/2021/10/11/00b95453-af40-4cfe-a8fb-51960607777e1633926686080-DILLINGER-Women-Tshirts-7421633926685543-1.jpg" alt="Product 7" />
        <span>Product 7</span>
      </div>
    </div>

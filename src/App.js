@@ -42,12 +42,6 @@ const MyntraClothesPage = () => {
     fetchProductsData();
   }, []);
 
-  const isPriceInRange = (price, range) => {
-    const [lower, upper] = range.split(' - ').map((str) => parseFloat(str.replace(/[^\d.]/g, '')));
-    const productPrice = parseFloat(price.replace(/[^\d.]/g, ''));
-    return productPrice >= lower && productPrice <= upper;
-  };
-
   const applyFilters = () => {
     let filteredProducts = [...products];
 
